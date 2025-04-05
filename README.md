@@ -25,9 +25,9 @@ La **aplicación web** facilitará la conexión al sistema, simplificando el pro
 
 ### Hardware
 
-- Una **Raspberry Pi 4** con sistema operativo Linux (Raspberry Pi OS o Ubuntu Server).
+- Una **Raspberry Pi 4** con sistema operativo Linux (Raspberry Pi OS).
 - Un **router configurable** que permita crear la red local y redireccionar puertos.
-- Ordenadores o dispositivos de prueba con Windows o Linux.
+- Ordenadores de prueba con Windows.
 - Acceso a Internet estable para pruebas remotas.
 
 ### Software
@@ -37,7 +37,6 @@ La **aplicación web** facilitará la conexión al sistema, simplificando el pro
 - Herramientas de monitoreo como **Nagios** o **Zabbix**.
 - Frameworks de desarrollo web (HTML, CSS, JavaScript, y/o frameworks como React o Vue.js).
 - Sistemas operativos de prueba (Windows, Linux).
-- (Opcional) **LDAP o Active Directory** para autenticación centralizada.
 
 ## Planificación
 
