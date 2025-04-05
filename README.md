@@ -43,12 +43,12 @@ La **aplicación web** facilitará la conexión al sistema, simplificando el pro
 
 | Actividad                                                                 | Duración estimada |
 |--------------------------------------------------------------------------|-------------------|
-| Instalación y configuración de OpenVPN en la Raspberry Pi               | 2 horas           |
+| Instalación y configuración de OpenVPN en la Raspberry Pi               | 3 horas           |
 | Configuración del router para redirección de puertos y red local        | 1 hora            |
 | Desarrollo e implementación de la aplicación web para conexión a la VPN | 8 horas           |
 | Creación de clientes VPN en ordenadores de prueba                       | 2 horas           |
 | Integración con LDAP o Active Directory para autenticación centralizada | 3 horas           |
-| Implementación de cifrado, certificados, TLS y 2FA                      | 5 horas           |
+| Implementación de cifrado, certificados, TLS y 2FA                      | 2 horas           |
 | Configuración de reglas de firewall y NAT en la Raspberry Pi           | 3 horas           |
 | Implementación de sistema de failover o redundancia                     | 4 horas           |
 | Pruebas de rendimiento de la VPN (latencia y velocidad)                 | 3 horas           |
@@ -62,5 +62,5 @@ La **aplicación web** facilitará la conexión al sistema, simplificando el pro
 | Pruebas finales de conectividad y seguridad                             | 5 horas           |
 | Prueba de todo el proyecto en condiciones reales                        | 6 horas           |
 
-**Total estimado de horas: 70 horas**
+**Total estimado de horas: 68 horas**
 
