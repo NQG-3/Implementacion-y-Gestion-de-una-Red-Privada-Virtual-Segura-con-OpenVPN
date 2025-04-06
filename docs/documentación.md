@@ -17,24 +17,6 @@ Este documento describe los archivos necesarios y su propósito en la configurac
 > Todos los archivos deben colocarse en la carpeta:
 > `C:\Users\Usuario\OpenVPN\config\`
 
----
-
-## Ejemplo de `cliente1.ovpn`
-
-```ovpn
-client
-dev tun
-proto udp
-remote 192.168.1.100 1194
-resolv-retry infinite
-nobind
-persist-key
-persist-tun
-remote-cert-tls server
-cipher AES-256-CBC
-auth SHA256
-compress lz4
-verb 3
 
 ca ca.crt
 cert cliente1.crt
