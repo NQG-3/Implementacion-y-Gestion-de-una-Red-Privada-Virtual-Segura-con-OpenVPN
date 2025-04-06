@@ -15,7 +15,6 @@ La **aplicación web** facilitará la conexión al sistema, simplificando el pro
 - Configurar un router doméstico para crear una red local protegida a la que se accederá desde el exterior.
 - Desarrollar una aplicación web que permita a los usuarios autenticarse y conectarse a la VPN de forma sencilla, integrando funciones de gestión de usuarios.
 - Establecer medidas de seguridad avanzadas, como el uso de certificados, autenticación TLS y 2FA.
-- Integrar con servicios de autenticación como LDAP o Active Directory si se requiere gestión centralizada.
 - Automatizar la gestión de conexiones y usuarios a través de scripts.
 - Monitorizar el rendimiento y la seguridad de la red VPN con herramientas como Nagios o Zabbix.
 - Evaluar el rendimiento del sistema, especialmente en cuanto a velocidad, estabilidad y latencia.
