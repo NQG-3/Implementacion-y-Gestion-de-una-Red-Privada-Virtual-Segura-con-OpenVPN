@@ -17,8 +17,3 @@ Este documento describe los archivos necesarios y su propósito en la configurac
 > Todos los archivos deben colocarse en la carpeta:
 > `C:\Users\Usuario\OpenVPN\config\`
 
-
-ca ca.crt
-cert cliente1.crt
-key cliente1.key
-tls-auth ta.key 1
