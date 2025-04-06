@@ -45,7 +45,6 @@ La **aplicación web** facilitará la conexión al sistema, simplificando el pro
 | Configuración del router para redirección de puertos y red local        | 1 hora            |
 | Desarrollo e implementación de la aplicación web para conexión a la VPN | 8 horas           |
 | Creación de clientes VPN en ordenadores de prueba                       | 2 horas           |
-| Integración con LDAP o Active Directory para autenticación centralizada | 3 horas           |
 | Implementación de cifrado, certificados, TLS y 2FA                      | 2 horas           |
 | Configuración de reglas de firewall y NAT en la Raspberry Pi           | 3 horas           |
 | Implementación de sistema de failover o redundancia                     | 4 horas           |
