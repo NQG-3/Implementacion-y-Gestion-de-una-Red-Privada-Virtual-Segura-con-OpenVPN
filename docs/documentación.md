@@ -1,6 +1,6 @@
 # Configuración del Cliente OpenVPN (Windows)
 
-Este documento describe los archivos necesarios y su propósito en la configuración de un cliente OpenVPN en Windows. También se incluye un ejemplo del archivo de configuración `.ovpn`.
+Este documento describe los archivos necesarios y su propósito en la configuración de un cliente OpenVPN en Windows.
 
 ---
 
