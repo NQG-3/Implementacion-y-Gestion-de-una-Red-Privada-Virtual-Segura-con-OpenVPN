@@ -43,17 +43,17 @@ La **aplicación web** facilitará la conexión al sistema, simplificando el pro
 |--------------------------------------------------------------------------|-------------------|
 | Instalación y configuración de OpenVPN en la Raspberry Pi               | 3 horas           |
 | Configuración del router para redirección de puertos y red local        | 1 hora            |
-| Desarrollo e implementación de la aplicación web para conexión a la VPN | 8 horas           |
+| Desarrollo e implementación de la aplicación web para conexión a la VPN | 10 horas           |
 | Creación de clientes VPN en ordenadores de prueba                       | 2 horas           |
 | Implementación de cifrado, certificados, TLS y 2FA                      | 2 horas           |
 | Configuración de reglas de firewall y NAT en la Raspberry Pi           | 3 horas           |
-| Implementación de sistema de failover o redundancia                     | 4 horas           |
+| Implementación de sistema de failover o redundancia                     | 3 horas           |
 | Pruebas de rendimiento de la VPN (latencia y velocidad)                 | 3 horas           |
 | Configuración de herramientas de monitoreo y gestión de red             | 3 horas           |
-| Optimización con split tunneling                                        | 3 horas           |
+| Optimización con split tunneling                                        | 1 hora           |
 | Pruebas de seguridad (penetración, vulnerabilidades)                    | 5 horas           |
 | Implementación de control de acceso por roles y usuarios                | 5 horas           |
-| Generación de informes automáticos sobre la actividad de la VPN        | 4 horas           |
+| Generación de informes automáticos sobre la actividad de la VPN        | 5 horas           |
 | Automatización para la gestión de usuarios y conexiones                 | 5 horas           |
 | Documentación del proceso y resultados                                  | 6 horas           |
 | Pruebas finales de conectividad y seguridad                             | 5 horas           |
